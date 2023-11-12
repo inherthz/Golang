@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/myuser/calculator"
+	"github.com/inherthz/Golang/tree/main/src/calculator"
 )
 
 func main() {
